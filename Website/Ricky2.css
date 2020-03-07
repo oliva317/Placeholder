@@ -1,0 +1,31 @@
+		h1 {
+			text-align: center;
+			font-size: 3em;
+			font-family: Calibri;
+			color: #D7C75E;
+			text-decoration: underline;
+			
+		}
+		p {
+			background-color: rgba(255,255,255,.6);
+			font-family: Cambria;
+			font-size: 1.25em;
+			color:  #E953C6 ;
+			
+		}
+		a:hover {
+			color: maroon;
+			background-color: #ffd9d9;
+		}
+		img {
+			float: left;
+			padding-right: 50px;
+			padding-bottom: 10px;
+			
+		}
+		div {
+			padding-top:10px;
+			padding-bottom:2em;
+			background-color: black;
+			border-radius: 50px;
+		}
